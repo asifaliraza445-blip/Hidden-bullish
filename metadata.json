@@ -1,0 +1,6 @@
+{
+  "name": "Hidden Bullish Spot Scanner",
+  "description": "Strict live spot-crypto scanner for the 1H Hidden Bullish lower-wick divergence method with real-time zero-touch verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
